@@ -17,3 +17,8 @@ ms.assetid: 2a7147a3-bc67-4fa4-972f-1c8bc5d3080a
 * [🔧 Common Configuration Scenarios]
 * [🔧 Project.json reference](project-json-reference.md)
 * [🔧 Global.json reference](global-json-reference.md)
+
+# .Net core project system
+* [Overview](overview.md)
+* [Project.json reference](project-json-reference.md)
+* [Global.json reference](global-json-reference.md)
